@@ -1,5 +1,7 @@
 # Vipul A M
 
+<img align="right" src="https://www.saeloun.com/assets/images/team/vipul.webp" alt="Vipul A M" width="240" />
+
 I help Rails teams ship reliable products, fix production fires, and add practical AI without turning the codebase into a science project.
 
 I am the founder of [Saeloun](https://www.saeloun.com/), a Ruby on Rails consulting company with teams in Boston and Pune. I work across Rails architecture, upgrades, performance, security reviews, React, private AI workflows, and CTO mentoring for teams that want AI to improve delivery without weakening engineering discipline.
@@ -7,6 +9,15 @@ I am the founder of [Saeloun](https://www.saeloun.com/), a Ruby on Rails consult
 [Book a Rails or AI consulting call](https://www.saeloun.com/ruby-on-rails-consulting-contact-us)  
 [Read the Saeloun blog](https://blog.saeloun.com/)  
 [View my Saeloun profile](https://www.saeloun.com/team/vipul)
+
+## Current Work
+
+- Founder and CEO at [Saeloun](https://www.saeloun.com/).
+- Rails Issues team member.
+- Rails Weekly / This Week in Rails co-editor.
+- Ruby and Rails open source contributor.
+- Organizer of [React Pune](https://x.com/ReactPune), [Deccan Ruby Conference](https://x.com/DeccanRubyConf), and [Pune.rb](https://x.com/punerb).
+- Author of [Building Modern Web Applications with React](https://www.packtpub.com/en-us/product/reactjs-by-example-building-modern-web-applications-with-react-9781785289644).
 
 ## What I Can Help With
 
@@ -22,11 +33,40 @@ I am the founder of [Saeloun](https://www.saeloun.com/), a Ruby on Rails consult
 
 - Founder of [Saeloun](https://www.saeloun.com/), a Rails and React consulting team.
 - Member of the [Rails Issues team](https://github.com/rails/rails).
-- Regular contributor to [This Week in Rails](https://world.hey.com/this.week.in.rails).
-- Long-time contributor to Ruby on Rails and the Ruby ecosystem, including Rails, Sinatra, Devise, and Rake.
+- Top 30 contributor to Ruby on Rails by commits, listed on the [Rails contributors page](https://contributors.rubyonrails.org/contributors/vipul-a-m/commits).
+- Co-editor for [This Week in Rails](https://rubyonrails.org/category/news).
+- Long-time contributor to Ruby on Rails and the Ruby ecosystem, including Ruby, Rails, Sinatra, Rack, Arel, Rake, Devise, Dalli, Loofah, Thor, GlobalID, and more.
 - Speaker at Ruby and Rails conferences including GoGaRuCo, RedDotRubyConf, RubyConf India, Madison+Ruby, RubyConf Brazil, and RubyConf Philippines.
 - Author of *Building Modern Web Applications with React.js*.
 - Organizer of Deccan Ruby Conference and former host of RubyIndia Podcast.
+
+## Open Source Work
+
+Selected projects and ecosystems I have contributed to:
+
+- [Ruby](https://github.com/ruby/ruby/pulls?q=is%3Aclosed+sort%3Acreated-desc+author%3Avipulnsward)
+- [Ruby on Rails](https://contributors.rubyonrails.org/contributors/vipul-a-m/commits)
+- [Sinatra](https://github.com/sinatra/sinatra/commits?author=vipulnsward)
+- [Rack](https://github.com/rack/rack/graphs/contributors)
+- [Arel](https://github.com/rails/arel/graphs/contributors)
+- [Rake](https://github.com/ruby/rake/graphs/contributors)
+- [Devise](https://github.com/heartcombo/devise/graphs/contributors)
+- [react-rails](https://github.com/reactjs/react-rails)
+- [benchmark-ips](https://github.com/evanphx/benchmark-ips)
+- [GlobalID](https://github.com/rails/globalid/graphs/contributors)
+
+Early open source work included Google Summer of Code contributions to the [krypt project](https://github.com/krypt). I later mentored in JRuby and Ruby on Rails for Google Summer of Code.
+
+## Conferences
+
+I have spoken at Ruby and Rails conferences across the US, India, Singapore, Brazil, and the Philippines.
+
+- [RedDotRubyConf](https://web.archive.org/web/20130502132638/http://www.reddotrubyconf.com/)
+- [Golden Gate Ruby Conference](https://web.archive.org/web/20130302084117/http://gogaruco.com/)
+- [RubyConf India](https://rubyconf.in/)
+- [Madison+Ruby](https://web.archive.org/web/20130730214642/http://madisonruby.org/)
+- [RubyConf Brazil](https://www.rubyconf.com.br/)
+- [RubyConf Philippines](https://www.rubyconf.ph/)
 
 ## How I Work
 
@@ -82,5 +122,7 @@ Useful first calls:
 
 - GitHub: [@vipulnsward](https://github.com/vipulnsward)
 - X: [@vipulnsward](https://x.com/vipulnsward)
+- LinkedIn: [vipulamler](https://www.linkedin.com/in/vipulamler/)
+- Instagram: [@vipulnsward](https://www.instagram.com/vipulnsward/)
 - Saeloun: [saeloun.com](https://www.saeloun.com/)
 - Blog: [blog.saeloun.com](https://blog.saeloun.com/)
