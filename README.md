@@ -126,5 +126,3 @@ Useful first calls:
 - Instagram: [@vipulnsward](https://www.instagram.com/vipulnsward/)
 - Saeloun: [saeloun.com](https://www.saeloun.com/)
 - Blog: [blog.saeloun.com](https://blog.saeloun.com/)
-
-<!-- profile-readme-refresh: 2026-04-28 -->
